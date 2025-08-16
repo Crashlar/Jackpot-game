@@ -75,5 +75,12 @@ Whether you're a beginner or experienced developer, your input is valued.
 https://roadmap.sh/projects/number-guessing-game
 ````
 
-<p align="center"><strong>Made by <span style="color:red;">Crashlar</span></strong></p>
+<p align="center">
+  <strong>Made by 
+    <a href="https://www.linkedin.com/in/crashlar/" style="color:red; text-decoration:none;">
+      Crashlar
+    </a>
+  </strong>
+</p>
+
 
